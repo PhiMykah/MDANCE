@@ -1,5 +1,5 @@
-from mdance.tools.bts import extended_comparison, calculate_medoid
 from mdance.modules.kmeansNANI import KmeansNANI
+from mdance.tools.bts import calculate_medoid, extended_comparison
 import numpy as np
 import os
 
