@@ -1,7 +1,7 @@
 import numpy as np
 import sys
 sys.path.insert(0, '../../')
-from src.inputs.preprocess import gen_traj_numpy, normalize_file, Normalizer
+from mdance.inputs.preprocess import gen_traj_numpy, normalize_file, Normalizer
 import re
 import glob
 import os
